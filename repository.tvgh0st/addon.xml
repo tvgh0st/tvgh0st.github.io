@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon 
+    id="repository.tvgh0st" 
+    name="tv gh0st repositório" 
+    version="2.0" 
+    provider-name="@blackghost_b">
+
+    <!-- Requisitos -->
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>  
+    </requires>
+
+    <!-- Repositório -->
+    <extension point="xbmc.addon.repository" name="tv gh0st repositório">
+	 
+
+        <dir minversion="19.0.0">
+            <!-- Este diretório é para Kodi Matrix+ -->
+            <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/matrix/addons.xml</info>
+            <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/matrix</datadir>
+            <hashes>false</hashes>
+        </dir>    
+        
+        <dir minversion="19.9.9">
+      <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/omega/addons.xml</info>
+      <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/omega/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/omega</datadir>
+      <hashes>false</hashes>
+  </dir> 
+<dir minversion="19.9.9">
+      <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/nexus/addons.xml</info>
+      <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/nexus/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/nexus</datadir>
+      <hashes>false</hashes>
+  </dir>  
+        
+        <dir minversion="17.0.0" maxversion="18.9.0">
+            <!-- Este diretório é para Kodi Leia -->
+            <info compressed="true">https://</info>
+            <checksum>https://</checksum>
+            <datadir zip="true">https://</datadir>
+            <hashes>false</hashes>
+        </dir>
+
+        <dir minversion="16.0.0" maxversion="17.0.0">
+            <!-- Este diretório é para Kodi Krypton -->
+            <info compressed="true">https://</info>
+            <checksum>https://</checksum>
+            <datadir zip="true">https://</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
+
+    <!-- Metadados -->
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositório Tio Jarvis</summary>
+        <description>Tutorial de repositório do Tio Jarvis</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+
+</addon>

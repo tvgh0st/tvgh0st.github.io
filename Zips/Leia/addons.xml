@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+    <!-- Inicio de Addon -->
+	
+    <addon id="meuaddon1" name="Meu Addon 1" version="1.0.0" provider-name="Nome do Provedor">
+        <requires>
+            <import addon="xbmc.python" version="2.0.0"/>
+        </requires>
+        <extension point="xbmc.python.script" library="addon.py"/>
+        <extension point="xbmc.addon.metadata">
+            <summary>Descrição do Meu Addon 1</summary>
+            <description>Aqui vai a descrição detalhada do que o addon faz.</description>
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
+    </addon>
+	
+    <!-- Fim do Addon -->
+
+
+    <!-- Mais addons podem ser adicionados aqui -->
+
+</addons>
