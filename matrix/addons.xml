@@ -784,33 +784,33 @@ v5.1.2 (2020-03-21) by enen92
 	</extension>
 </addon>
 
-<addon id="repository.tvgh0st" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]TVGH0ST[/COLOR][/B]" version="1.1" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR orange]GHOST_B[/COLOR][/B]">
+<addon id="repository.tvgh0st" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]TVGH0ST[/COLOR][/B]" version="1.3" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR orange]GHOST_B[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
   <extension point="xbmc.addon.repository" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]TVGH0ST[/COLOR][/B]">
     <dir>
-    <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/addons.xml</info>
-    <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master</datadir>
+    <info compressed="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master</datadir>
     <hashes>false</hashes>
 </dir>
   <dir minversion="19.9.9">
-      <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/omega/addons.xml</info>
-      <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/omega/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/omega</datadir>
+      <info compressed="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/omega/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/omega/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/omega</datadir>
       <hashes>false</hashes>
   </dir>
 <dir minversion="19.9.9">
-      <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/nexus/addons.xml</info>
-      <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/nexus/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/nexus</datadir>
+      <info compressed="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/nexus/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/nexus/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/nexus</datadir>
       <hashes>false</hashes>
   </dir>
   <dir minversion="19.0.0">
-      <info compressed="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/matrix/addons.xml</info>
-      <checksum>https://raw.github.com/tvgh0st/tvgh0st.github.io/master/matrix/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/tvgh0st/tvgh0st.github.io/master/matrix</datadir>
+      <info compressed="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/matrix/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/tvgh0st/tvgh0st.github.io/master/matrix</datadir>
       <hashes>false</hashes>
   </dir>
   </extension>
