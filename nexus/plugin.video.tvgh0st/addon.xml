@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tvgh0st" version="1.1" name="[B][COLOR magenta]TV GH0ST[/B][/COLOR][B][COLOR green][++][/B][/COLOR]" provider-name="[B][COLOR orange]@gh000000000000st[/B][/COLOR]">
+<addon id="plugin.video.tvgh0st" version="1.2" name="[B][COLOR yellow]TV GH0ST[/B][/COLOR][B] [COLOR lime][++][/B][/COLOR]" provider-name="[B][COLOR magenta]@gh000000000000st[/B][/COLOR]">
     <requires>
         <import addon="script.module.simplejson" />
         <import addon="script.module.six" />
@@ -13,11 +13,11 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="pt">[B][COLOR magenta] TVSTREAMPRO[/B][/COLOR][B][COLOR green][++][/B][/COLOR] [B]É apenas um [B][COLOR cyan]AGREGADOR[/B][/COLOR] [B]de[/B] [B][COLOR cyan]LINKS[/B][/COLOR] [B] assim como o[/B] [B][COLOR cyan]GOOGLE[/B][/COLOR], [B]apenas agrega e [B][COLOR cyan]ORGANIZA[/B][/COLOR] [B]Os[/B] [B][COLOR cyan]LINKS EXTERNOS[/B][/COLOR], [B]Não somos responsáveis pelos arquivos[/B] [B][COLOR cyan]ENCONTRADO[/B][/COLOR] [B]aqui.</summary>
+        <summary lang="pt">[B][COLOR yellow] TV GH0ST[/B][/COLOR] [B][COLOR green][++][/B][/COLOR] [B]É apenas um [B][COLOR cyan]AGREGADOR[/B][/COLOR] [B]de[/B] [B][COLOR cyan]LINKS[/B][/COLOR] [B] assim como o[/B] [B][COLOR cyan]GOOGLE[/B][/COLOR], [B]apenas agrega e [B][COLOR cyan]ORGANIZA[/B][/COLOR] [B]Os[/B] [B][COLOR cyan]LINKS EXTERNOS[/B][/COLOR], [B]Não somos responsáveis pelos arquivos[/B] [B][COLOR cyan]ENCONTRADO[/B][/COLOR] [B]aqui.</summary>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer>[B][COLOR orange]OBRIGADO POR USAR NOSSO ADD-ONS[/B][/COLOR] [B][COLOR red]sz[/B][/COLOR] [B][COLOR white]AGRADECERMOS A SUA ESCOLHA[/B][/COLOR] [B][COLOR white]EQUIPE[/B][/COLOR] [B][COLOR magenta]TVSTREAMPRO[/B][/COLOR][B][COLOR green][++][/B][/COLOR] [COLOR gold]:D[/COLOR]</disclaimer>
-        <description>[B][COLOR firebrick]●[/COLOR] [COLOR white]PROIBIDO VENDER O [B][COLOR magenta] TVSTREAMPRO[/B][/COLOR][B][COLOR green][++][/B][/COLOR].
+        <disclaimer>[B][COLOR orange]OBRIGADO POR USAR NOSSO ADD-ONS[/B][/COLOR] [B][COLOR red]sz[/B][/COLOR] [B][COLOR white]AGRADECERMOS A SUA ESCOLHA[/B][/COLOR] [B][COLOR white]EQUIPE[/B][/COLOR] [B][COLOR yellow]TV GH0ST[/B][/COLOR] [B][COLOR green][++][/B][/COLOR] [COLOR gold]:D[/COLOR]</disclaimer>
+        <description>[B][COLOR firebrick]●[/COLOR] [COLOR white]PROIBIDO VENDER O [B][COLOR yellow] TV GH0ST[/B][/COLOR] [B][COLOR green][++][/B][/COLOR].
 [B][COLOR firebrick]●[/COLOR] [COLOR white]NÃO VENDEMOS IPTV, CASO ACHE SITES OU MESMO APPS É FALSO.[/COLOR][/B]
 </description>
         <assets>
